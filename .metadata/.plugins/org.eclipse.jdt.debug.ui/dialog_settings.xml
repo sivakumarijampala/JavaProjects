@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Selenium/\/Selenium\/server\/selenium-server-standalone-3.5.1.jar&amp;lt;org.apache.bcel.verifier.exc(AssertionViolatedException.class[AssertionViolatedException&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=practice/src&amp;lt;practice{Ex.java[Ex&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=PracticeJava/src&amp;lt;overriding{AddingIntegers.java[AddingIntegers&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=entities/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.example{Application.java[Application&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=addressservice/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.example{AddressserviceApplication.java[AddressserviceApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="346"/>
+			<item key="DIALOG_Y_ORIGIN" value="53"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="OpenFromClipboardAction_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="418"/>
+		<item key="DIALOG_Y_ORIGIN" value="85"/>
+		<item key="DIALOG_WIDTH" value="457"/>
+		<item key="DIALOG_HEIGHT" value="452"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
